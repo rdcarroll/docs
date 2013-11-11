@@ -1,30 +1,30 @@
 {
   "Documents": {
     "bechtel-test-api": {
-      regexes: ["^\/svc3\/v2\/documents\/([^\/]+)\/", "^\/apps\/v2\/iw6\/Rest1\/([^\/]+)\/", "^\/apps\/v2\/iw4\/Rest1\/([^\/]+)\/", "[&?]contextName=([^&]+)"]
+      "regexes": ["^\/svc3\/v2\/documents\/([^\/]+)\/", "^\/apps\/v2\/iw6\/Rest1\/([^\/]+)\/", "^\/apps\/v2\/iw4\/Rest1\/([^\/]+)\/", "[&?]contextName=([^&]+)"]
     },
     "Documents": {
-      regexes: ["^\/svc3\/v2\/documents\/([^\/]+)\/", "^\/apps\/v2\/iw6\/Rest1\/([^\/]+)\/", "^\/apps\/v2\/iw4\/Rest1\/([^\/]+)\/", "[&?]contextName=([^&]+)"]
+      "regexes": ["^\/svc3\/v2\/documents\/([^\/]+)\/", "^\/apps\/v2\/iw6\/Rest1\/([^\/]+)\/", "^\/apps\/v2\/iw4\/Rest1\/([^\/]+)\/", "[&?]contextName=([^&]+)"]
     }
   },
   "EQMS": {
     "bechtel-test-api": {
-      regexes: ["^\/irt-32\/v2\/sin\/equipmentmaintenance\/([^\/]+)\/"]
+      "regexes": ["^\/irt-32\/v2\/sin\/equipmentmaintenance\/([^\/]+)\/"]
     }
   },
   "iForms": {
     "bechtel-test-api": {
-      regexes: ["^\/svc1\/v2\/iForms\/Organizations\/([^\/]+)\/"]
+      "regexes": ["^\/svc1\/v2\/iForms\/Organizations\/([^\/]+)\/"]
     }
   },
   "TeamWorks": {
     "bechtel-test-api": {
-      regexes: ["^\/svc5\/v2\/construction\/([^\/]+)\/"]
+      "regexes": ["^\/svc5\/v2\/construction\/([^\/]+)\/"]
     }
   },
   "Timecards": {
     "bechtel-test-api": {
-      regexes: ["^\/svc1\/v2\/CTT\/Projects\/([^\/]+)\/"]
+      "regexes": ["^\/svc1\/v2\/CTT\/Projects\/([^\/]+)\/"]
     }
   }
 }
