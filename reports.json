@@ -1,4 +1,4 @@
-"regex":{
+{
   "Documents": {
     "bechtel-test-api": {
       regexes: ["^\/svc3\/v2\/documents\/([^\/]+)\/", "^\/apps\/v2\/iw6\/Rest1\/([^\/]+)\/", "^\/apps\/v2\/iw4\/Rest1\/([^\/]+)\/", "[&?]contextName=([^&]+)"]
